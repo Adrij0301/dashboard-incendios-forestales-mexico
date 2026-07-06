@@ -5,10 +5,10 @@ Proyecto de la materia **Ciencia de Datos** para analizar los registros históri
 
 ## Vista previa
 
-![Dashboard de incendios forestales](assets/dashboard.png)
+![Dashboard de incendios forestales](assets/DASHBOARD.png)
 
 
-![Dashboard de incendios forestales](assets/dashboard2.png)
+![Dashboard de incendios forestales](assets/DASHBOARD2.png)
 
 
 ## Funcionalidades
