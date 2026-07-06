@@ -2,6 +2,15 @@
 
 Proyecto de la materia **Ciencia de Datos** para analizar los registros históricos de incendios forestales en México entre 2015 y 2024.
 
+
+## Vista previa
+
+![Dashboard de incendios forestales](assets/dashboard.png)
+
+
+![Dashboard de incendios forestales](assets/dashboard2.png)
+
+
 ## Funcionalidades
 
 - Indicadores de incendios, hectáreas quemadas y entidades.
@@ -16,33 +25,12 @@ Proyecto de la materia **Ciencia de Datos** para analizar los registros históri
 
 ## Tecnologías
 
-Python, Dash, Dash Bootstrap Components, Pandas, Plotly, Scikit-learn y WordCloud.
-
-## Estructura
-
-```text
-DASHBOARD_JAOC_CD/
-├── assets/
-│   ├── styles.css
-│   └── resize.js
-├── data/
-│   └── estadisticasincendiosforestales2015-2024.csv
-├── outputs/
-├── src/
-│   ├── callbacks.py
-│   ├── config.py
-│   ├── data.py
-│   ├── figures.py
-│   └── layout.py
-├── dashboard.py
-├── requirements.txt
-└── README.md
-```
+Python, Dash, Pandas, Plotly, Scikit-learn y WordCloud.
 
 ## Ejecución
 
 ```powershell
-py -m pip install --upgrade -r requirements.txt
+pip install requirements.txt
 py dashboard.py
 ```
 
